@@ -15,3 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm install material UI and React Icons`
+
+Install material UI and React Icons to run this project
